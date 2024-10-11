@@ -1,0 +1,14 @@
+{
+  "name": "library-for-snyk",
+  "version": "1.0.0",
+  "description": "Project for snyk detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/elements": "^8.2.14"
+  }
+}
